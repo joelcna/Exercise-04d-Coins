@@ -13,5 +13,8 @@ https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
 
+## Extra points
+Made the music by scratch in Ableton, made the coin sound effect in a plugin called serum using ableton, made 2 big levels, made the other sfx in chiptone
+
 ## Created by
 Joel Na
